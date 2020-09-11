@@ -1,0 +1,3 @@
+export const REQ_FOR_New_TODO = 'API_CALL_REQUEST_New_TODO';
+export const REQ_FOR_New_TODO_SUCCESS = 'API_CALL_SUCCESS_New_TODO';
+export const REQ_FOR_New_TODO_FAILED = 'API_CALL_FAILURE_New_TODO';
